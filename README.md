@@ -1,4 +1,4 @@
-# 📈 Dawid Boratyński
+# 📊 Dawid Boratyński
 
 **Applied Computer Science Master's Student | Analytical Support Intern at Robert Bosch GmbH**
 
