@@ -19,6 +19,6 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/dawid-boratyński-data-science" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dawid Boratyński LinkedIn" height="30" width="40" /></a>
-<a href="[https://bit.ly/dawidboratynski](https://sites.google.com/view/dawid-boratyski/about-me?authuser=1)" target="blank"><img align="center" src="images/DB.jpg" alt="Dawid Boratyński Website" height="30" width="40" /></a>
+<a href="https://bit.ly/dawidboratynski" target="blank"><img align="center" src="images/DB.jpg" alt="Project Site" height="30" width="40" /></a>
 <a href="https://bit.ly/polska2000" target="blank"><img align="center" src="images/PL2000.png" alt="Project Site" height="30" width="40" /></a>
 </p>
