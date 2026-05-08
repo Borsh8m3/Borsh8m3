@@ -6,7 +6,7 @@
 
 ### 📂 Featured Projects
 
-| Date | Project Name | Description | Tech Stack | Link |
+| Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- | :--- |
 **[Housingmarket prices prediction 2026](https://www.dawidboratynski.website/projects/housingmarket-price-prediction)** | Interactive ML dashboard for property appraisal in Poland. Uses XGBoost to predict prices based on location, area, and market type. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-233F31?style=flat&logo=xgboost&logoColor=white) ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat&logo=leaflet&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | [🔗 View Repo](https://github.com/Borsh8m3/Developer_Info) |
 **[GameBots](https://sites.google.com/view/dawid-boratyski/projects/gamebots?authuser=1)** | BBTAN clone & AI sandbox comparing pure math, Supervised Learning, and Reinforcement Learning performance. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/-Pygame-111111?style=flat&logo=python&logoColor=green) ![Stable Baselines3](https://img.shields.io/badge/-Stable_Baselines3-FF6F00?style=flat) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | [🔗 View Repo](https://github.com/Borsh8m3/Gamebots) |
