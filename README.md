@@ -1,6 +1,6 @@
 # 📊 Dawid Boratyński
 
-**Applied Computer Science Master's Student | Analytical Support Intern at Robert Bosch GmbH**
+Applied Computer Science student with nearly 2 years of experience at Robert Bosch GmbH, specializing in providing analytical support for frontline teams. Experienced in the entire ETL process from extracting data, through operational analysis and data engineering, to building ML classification models and reporting in Power BI. My analytical focus is driven by a fascination with economic systems and their financial and social impact. Currently looking for opportunities in data-focused roles, specifically as a Data Analyst or Data Scientist!
 
 ---
 
